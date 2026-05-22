@@ -1,5 +1,5 @@
 # Booking-System-Flow
-Booking System API Automation Framework using Postman, Newman, and Python (Optional DB Validation)
+Booking System API Automation Framework using Postman, Newman, and Python 
 Key features include:
 - Authentication handling and token generation
 - Create, update, retrieve, and delete booking operations
